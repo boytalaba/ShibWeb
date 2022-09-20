@@ -164,7 +164,7 @@ const BuyNowSection = () => {
                 <Typography className={classes.title}>The Details</Typography>
                 <Typography className={globalClasses.text21}>
                   All Moonshibs are unique and programmatically generated with over
-                  100 possible traits, including body type, clothing, eyes, mouth, headwear, and background. Even though
+                  100 possible traits, including fur, clothing, eyes, mouth, headwear, and background. Even though
                   all Moonshibs are out of this world, some are slightly more rare than others.
                   <br />
                   <br /> Moonshibs are stored as ERC-721 tokens on the Shibchain blockchain and hosted on IPFS.
