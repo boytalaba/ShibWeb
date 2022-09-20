@@ -30,7 +30,7 @@ const HomeSection = () => {
                 Of the 10,000 Moonshibs, there are different species (colors) of shiba and different layers
                 and the total possible combinations is greater than any previous generative NFT project to date. This
                 has been a colossal undertaking but we wanted to make something truly different than anything anyone has
-                seen before. 
+                seen before as the FIRST NFT COLLECTION on shibchain.
               </Typography>
             </Grid>
           </Box>
