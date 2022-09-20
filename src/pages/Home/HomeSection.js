@@ -27,7 +27,7 @@ const HomeSection = () => {
               <Typography className={globalClasses.text21}>
                 Moonshibs is a collection of 10,000 unique NFTs living in Ryoshi's NFT galaxy (on the Shibchain
                 blockchain). What makes this project different than any other NFT project is that they are very unique and made details by details.
-                Of the 10,000 aliens, there are different species (colors) of shiba and different layers
+                Of the 10,000 Moonshibs, there are different species (colors) of shiba and different layers
                 and the total possible combinations is greater than any previous generative NFT project to date. This
                 has been a colossal undertaking but we wanted to make something truly different than anything anyone has
                 seen before. 
