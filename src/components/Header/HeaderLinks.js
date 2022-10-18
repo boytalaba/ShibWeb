@@ -86,7 +86,7 @@ const HeaderLinks = () => {
         </a>
       </ListItem>
       <ListItem className={classes.listItem}>
-        <a href="https://www.moonshib.cf">
+        <a href="https://moonshibs.ga/">
           <img src={discord} className={classes.socialAvatar} />
         </a>
       </ListItem>
