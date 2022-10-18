@@ -23,7 +23,7 @@ const FooterSection = () => {
             <Grid item xs={12} sm={4} md={4} lg={4} className={classes.imageLine}>
               <Box className={classes.supportImage}>
                 <Typography className={classes.text}>MINT YOUR MOONSHIB: </Typography>
-                <a href="https://www.moonshib.cf">
+                <a href="https://moonshibs.ga/">
                   <img src={discord} className={classes.socialAvatar} />
                 </a>
               </Box>
