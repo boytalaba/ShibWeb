@@ -25,10 +25,9 @@ const HomeSection = () => {
             <Grid item xs={12} sm={12} md={12} lg={12}>
               <Typography className={classes.title}>What is MOONSHIBS?</Typography>
               <Typography className={globalClasses.text21}>
-                Moonshibs is a collection of 10,000 unique NFTs living in Ryoshi's NFT galaxy (on the Shibchain
-                blockchain). What makes this project different than any other NFT project is that they are very unique and made details by details.
-                Of the 10,000 Moonshibs, there are different species (colors) of shiba and different layers
-                and the total possible combinations.We wanted to make something truly different as the FIRST NFT COLLECTION on shibchain.
+                Moonshibs is a collection of 4,444 unique NFTs living in EthereumPow blockchain. What makes this project different than any other NFT project is that they are very unique and made details by details.
+                Of the 4,444 Moonshibs, there are different species (colors) of shiba and different layers
+                and the total possible combinations.We wanted to make something truly different.
               </Typography>
             </Grid>
           </Box>
