@@ -167,8 +167,8 @@ const BuyNowSection = () => {
                   100 possible traits, including fur, clothing, eyes, mouth, headwear, and background. Even though
                   all Moonshibs are out of this world, some are slightly more rare than others.
                   <br />
-                  <br /> Moonshibs are stored as ERC-721 tokens on the Shibchain blockchain and hosted on IPFS.
-                  Purchasing Moonshibs cost 150000 wShib.
+                  <br /> Moonshibs are stored as ERC-721 tokens on the EthereumPow blockchain and hosted on IPFS.
+                  Purchasing Moonshibs cost 0.25 EthW.
                   <br />
                   <br /> To access members-only areas such as the upcoming updates, Moonshibs will need to join 
                   Telegram and follow our twitter.
